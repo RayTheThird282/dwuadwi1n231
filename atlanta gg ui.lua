@@ -6026,4 +6026,4 @@ end)
 end
 task.wait()
 library.old_config = library:get_config()
-
+return library
